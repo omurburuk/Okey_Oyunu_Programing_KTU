@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="okeyim.bitmekontrolu">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>bitmekontrolu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.dusun">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAgAAAAAAAAA=</HashCode>
+      <FileName>dusun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.okeycim">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AConAPgIYCCCEBAACSWzAggGEUAEiAmAD1RgAQiEQQU=</HashCode>
+      <FileName>okeycim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.Form2">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8AAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.ıstakalık" Collapsed="true">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAEAIAAACgAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>ıstakalık.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.k_oyuncu" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAAAAwAAA=</HashCode>
+      <FileName>k_oyuncu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.kontroller">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAABAAAFAEASMAAEAAAAAEgCAADABAIgwACICEAQA=</HashCode>
+      <FileName>kontroller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.konum">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>konum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.oyuncu" Collapsed="true">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAAAAAQAAAAAAIAAQEAAACAAAAIAAIAQAAyAAA=</HashCode>
+      <FileName>oyuncu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.per">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAAAAAQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>per.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.perler">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>perler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.Program" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.siralama" Collapsed="true">
+    <Position X="1.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>siralama.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.tas" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAIAAMEAAAAAAAAAIAAAAAEAgAIAAAAA=</HashCode>
+      <FileName>tas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.tasat" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAABAA=</HashCode>
+      <FileName>tasat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.tascek" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAQAAAAAAAAAAAAAAAgAAAAgAAAgAAAIAAAAA=</HashCode>
+      <FileName>tascek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.Properties.Resources" Collapsed="true">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="okeyim.Properties.Settings" Collapsed="true">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

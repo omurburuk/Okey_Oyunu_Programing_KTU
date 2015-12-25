@@ -1,0 +1,9 @@
+C:\Users\ömür\documents\visual studio 2010\Projects\okeyim\okeyim\obj\x86\Debug\okeyim.okeycim.resources
+C:\Users\ömür\documents\visual studio 2010\Projects\okeyim\okeyim\obj\x86\Debug\okeyim.Form2.resources
+C:\Users\ömür\documents\visual studio 2010\Projects\okeyim\okeyim\obj\x86\Debug\okeyim.Form3.resources
+C:\Users\ömür\documents\visual studio 2010\Projects\okeyim\okeyim\obj\x86\Debug\okeyim.Properties.Resources.resources
+C:\Users\ömür\documents\visual studio 2010\Projects\okeyim\okeyim\obj\x86\Debug\okeycim V.1.0.csproj.GenerateResource.Cache
+C:\Users\ömür\documents\visual studio 2010\Projects\okeyim\okeyim\obj\x86\Debug\okeyim.exe
+C:\Users\ömür\documents\visual studio 2010\Projects\okeyim\okeyim\obj\x86\Debug\okeyim.pdb
+C:\Users\ömür\documents\visual studio 2010\Projects\okeyim\okeyim\bin\Debug\okeyim.exe
+C:\Users\ömür\documents\visual studio 2010\Projects\okeyim\okeyim\bin\Debug\okeyim.pdb
